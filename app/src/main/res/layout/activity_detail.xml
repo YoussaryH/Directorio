@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent">
+
+	<ImageView android:id="@+id/ivImagen"
+		android:layout_width="match_parent"
+		android:layout_height="310dp"
+		android:fitsSystemWindows="true"
+		android:scaleType="fitXY" />
+	<TextView android:id="@+id/header"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_below="@+id/ivImagen"
+		android:layout_marginLeft="10dp"
+		android:layout_marginTop="10dp"
+		android:text="@string/titulo"
+		android:textAlignment="center"
+		android:textColor="@color/primary_text"
+		android:textSize="25dp"
+		android:textStyle="bold" />
+	<TextView android:id="@+id/tvTittleMovies"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_below="@+id/header"
+		android:layout_marginLeft="10dp"
+		android:layout_marginTop="3dp"
+		android:gravity="center"
+		android:textColor="@color/secondary_text"
+		android:textSize="20dp" />
+	<TextView android:id="@+id/tvTittleDescription"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_below="@+id/tvTittleMovies"
+		android:layout_marginLeft="10dp"
+		android:layout_marginTop="10dp"
+		android:text="@string/description"
+		android:textAlignment="center"
+		android:textColor="@color/primary_text"
+		android:textSize="25dp"
+		android:textStyle="bold" />
+	<ScrollView
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:layout_below="@+id/tvTittleDescription">
+		<TextView android:id="@+id/tvDescription"
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:layout_marginLeft="10dp"
+			android:layout_marginTop="3dp"
+			android:gravity="center"
+			android:textColor="@color/secondary_text"
+			android:textSize="14dp" />
+	</ScrollView>
+</RelativeLayout>

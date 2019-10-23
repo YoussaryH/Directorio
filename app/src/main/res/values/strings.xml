@@ -1,0 +1,10 @@
+<resources>
+	<string name="app_name">Peliculas</string>
+	<string name="internet">No tiene  conexion a internet</string>
+	<string name="errordatos">Error datos</string>
+	<string name="titulo">Título</string>
+	<string name="description">Descripción</string>
+	<string name="loading">Obteniendo Usuarios...</string>
+	<string name="error_loads">Error cargando datos</string>
+	<string name="error">Error</string>
+</resources>

@@ -1,0 +1,111 @@
+<resources>
+	<!-- Default screen margins, per the Android Design guidelines. -->
+	<dimen name="activity_horizontal_margin">16dp</dimen>
+	<dimen name="activity_vertical_margin">16dp</dimen>
+
+	<dimen name="layout_width_large">300dp</dimen>
+	<dimen name="layout_height_large">200sp</dimen>
+	<dimen name="layout_elevation">4sp</dimen>
+	<dimen name="layout_radio">8sp</dimen>
+	<dimen name="layout_elevation_list">2sp</dimen>
+	<dimen name="layout_elevation_list_max">2sp</dimen>
+	<dimen name="layout_radio_list">10sp</dimen>
+	<dimen name="padding_small">8dp</dimen>
+
+
+	<dimen name="GeneralPadding">8sp</dimen>
+	<!-- Margen aplicado al layout raiz -->
+	<dimen name="TitleTextSize">12sp</dimen>
+	<!-- Tamaño fuente de titulos1 -->
+	<dimen name="NormalTextSize">16sp</dimen>
+	<dimen name="MediumTextSize">14sp</dimen>
+	<!-- Tamaño fuente texto normal -->
+	<dimen name="SmallTextSize">12sp</dimen>
+	<dimen name="SmallTextSizeSmall">10sp</dimen>
+	<!-- Tamaño fuente texto pequeña -->
+	<dimen name="SubtitlesTextSize">20sp</dimen>
+	<!-- Tamaño fuente titulos2 -->
+	<dimen name="TitleBottomMargin">10sp</dimen>
+	<!-- Margen bajo titulos1 -->
+	<dimen name="LineBottomMargin">5sp</dimen>
+	<!-- Margen bajo linea horizontal -->
+	<dimen name="LineHeight">1px</dimen>
+	<!-- Grosor de la linea horizontal -->
+	<dimen name="SubtitlesBottomMargin">2sp</dimen>
+	<!-- Margen bajo titulos2 -->
+	<dimen name="SubtitlesTopMargin">10sp</dimen>
+	<!-- Margen sobre titulos2 -->
+
+	<dimen name="TitleTopMargin">5sp</dimen>
+	<!-- Margen sobre titulos1 -->
+	<dimen name="ControlSideMargin">10sp</dimen>
+	<!-- Margen a ambos lados de controles -->
+	<dimen name="LabelRightMargin">10sp</dimen>
+
+	<dimen name="padding_sombra">3dp</dimen>
+	<dimen name="padding_all">2dp</dimen>
+	<dimen name="padding_medium">10dp</dimen>
+	<dimen name="padding_large">16dp</dimen>
+	<dimen name="textsize_huge">20sp</dimen>
+	<dimen name="textsize_large">16sp</dimen>
+	<dimen name="textsize_normal">16sp</dimen>
+	<dimen name="textsize_small_">15sp</dimen>
+	<dimen name="textsize_small">12sp</dimen>
+	<dimen name="textsize_tiny">13sp</dimen>
+	<dimen name="textsize_minitiny">11sp</dimen>
+	<dimen name="image_width">35sp</dimen>
+	<dimen name="image_height">35sp</dimen>
+	<dimen name="image_width_huge">500sp</dimen>
+	<dimen name="image_width_large">300sp</dimen>
+	<dimen name="image_width_normal">80sp</dimen>
+	<dimen name="image_height_normal">80sp</dimen>
+	<dimen name="image_height_normald">100sp</dimen>
+	<dimen name="image_height_large">300sp</dimen>
+	<dimen name="image_width_small">27sp</dimen>
+	<dimen name="image_height_small">27sp</dimen>
+	<dimen name="listitem_height">40dip</dimen>
+	<dimen name="listitem_height_high">50dp</dimen>
+	<dimen name="listitem_height_combo">56dip</dimen>
+	<dimen name="list_height">70dip</dimen>
+	<dimen name="list_height_normal">105dip</dimen>
+	<dimen name="list_height_normal_high">175dip</dimen>
+	<dimen name="list_height_high">300dip</dimen>
+	<dimen name="layout_height">39dip</dimen>
+	<dimen name="layout_height_small">30dip</dimen>
+	<dimen name="layout_height_tiny">22dip</dimen>
+	<dimen name="margin_left_small">5dip</dimen>
+	<dimen name="margin_left_normal">10dip</dimen>
+	<dimen name="margin_left_large">50dip</dimen>
+	<dimen name="margin_right_small">5dip</dimen>
+	<dimen name="margin_right_normal">10dip</dimen>
+	<dimen name="margin_top_small">5dip</dimen>
+	<dimen name="margin_top_normal">10dip</dimen>
+	<dimen name="margin_bottom_small">5dip</dimen>
+	<dimen name="margin_bottom_normal">10dip</dimen>
+	<dimen name="CheckBoxLeftMargin">60sp</dimen>
+	<!-- Margen a la izquierda de checkbox -->
+
+	<dimen name="ButtonRightMargin">10dip</dimen>
+	<!-- Margen a la derechera de botones -->
+	<dimen name="TopPadding">10dip</dimen>
+	<!-- Margen aplicado al top -->
+
+	<dimen name="button_size_height_general">27dp</dimen>
+	<dimen name="grosor_linea">4dp</dimen>
+	<dimen name="style_size">1dp</dimen>
+
+	<!-- buttons -->
+	<dimen name="button_min_width">95dp</dimen>
+	<dimen name="button_min_height">35dp</dimen>
+	<dimen name="button_width_normal">100dip</dimen>
+	<dimen name="button_height_normal">40dip</dimen>
+	<dimen name="button_width_large">150dip</dimen>
+	<dimen name="button_height_large">40dip</dimen>
+
+	<dimen name="height_list">25dip</dimen>
+	<dimen name="line_height">3dip</dimen>
+
+	<!-- Spinner -->
+	<dimen name="spinner_height_normal">35dp</dimen>
+
+</resources>
